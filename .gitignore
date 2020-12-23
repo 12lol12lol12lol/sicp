@@ -1,0 +1,14 @@
+*/__pycache__/
+ch1/1_9_1.scm
+ch1/1_9.scm
+ch1/1_22.py
+ch1/count_change.scm
+ch1/ferma_test.py
+ch1/ferma_test.rkt
+ch1/fib_iter.scm
+ch1/fib_recur.scm
+ch1/iter_factorial.scm
+ch1/simple_factorial.scm
+ch1/smaller_divisor.py
+ch1/smaller_divisor.scm
+ch1/sqrt.scm
